@@ -14,4 +14,4 @@
 </p> 
 
 <p align="center">
-  <a href="https://rentry.co/discharge2026">rentry</a> <a href="https://guns.lol/vyytech">guns</a> <a href="https://allhailtheking.atabook.org">ata</a> straw wip
+  <a href="https://rentry.co/discharge2026">rentry</a> <a href="https://guns.lol/vyytech">guns</a> <a href="https://allhailtheking.atabook.org">ata</a> <a href="https://discharge2026.straw.page">straw</a>
